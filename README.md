@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
 <h3 align="center">A Passionate Programming Student</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp">
