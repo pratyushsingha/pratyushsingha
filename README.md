@@ -1,4 +1,4 @@
-![logo](https://github.com/pratyushsingha/pratyushsingha/blob/main/your_cool_intro (1).gif)
+![logo](https://github.com/pratyushsingha/pratyushsingha/blob/main/your_cool_intro(1).gif)
 <h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
 <h3 align="center">A Passionate Programming Student</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp">
