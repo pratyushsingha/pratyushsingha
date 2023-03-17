@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [web-development](https://pratyushsingha.000webhostapp.com/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **web-development**
 
