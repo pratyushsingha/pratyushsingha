@@ -1,7 +1,7 @@
 ![logo](https://github.com/pratyushsingha/pratyushsingha/blob/main/pratyush.gif)
 <h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
 <h3 align="center">A Passionate Programming Student</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsingha&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsingha" /> </p>
 
 - 🔭 I’m currently working on [web-development](https://pratyushsingha.vercel.app)
