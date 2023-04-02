@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsingha&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsingha" /> </p>
 
-- 🔭 I’m currently working on [web-development](https://pratyushsingha.000webhostapp.com/)
+- 🔭 I’m currently working on [web-development](https://pratyushsingha.vercel.app)
 
 - 🌱 I’m currently learning **React**
 
