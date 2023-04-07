@@ -30,6 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushsingha&show_icons=true&locale=en" alt="pratyushsingha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushsingha&" alt="pratyushsingha" /></p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pratyushsingha/count.svg?"  />
-</div>
