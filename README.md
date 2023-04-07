@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
 <h3 align="center">A Passionate Programming Student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsingha&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsingha" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/pratyushsingha/count.svg?" alt="pratyushsingha" /> </p>
 
 - 🔭 I’m currently working on [web-development](https://pratyushsingha.vercel.app)
 
@@ -30,4 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushsingha&show_icons=true&locale=en" alt="pratyushsingha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushsingha&" alt="pratyushsingha" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pratyushsingha/count.svg?"  />
+</div>
 
