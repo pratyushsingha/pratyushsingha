@@ -1,7 +1,8 @@
-![logo](https://github.com/pratyushsingha/pratyushsingha/blob/main/pratyush.gif)
+<!-- ![logo](https://github.com/pratyushsingha/pratyushsingha/blob/main/pratyush.gif) -->
+<img align="center" alt="coding" width="1000" src="https://github.com/pratyushsingha/pratyushsingha/blob/main/pratyush.gif">
 <h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
 <h3 align="center">A Passionate Programming Student</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 <p align="left"> <img src="https://profile-counter.glitch.me/pratyushsingha/count.svg?" alt="pratyushsingha" /> </p>
 
 - 🔭 I’m currently working on [web-development](https://pratyushsingha.vercel.app)
