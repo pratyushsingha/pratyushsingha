@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/pratyushsingha/pratyushsingha/blob/main/pratyush.gif) -->
 <img align="center" alt="coding" width="1000" src="https://github.com/pratyushsingha/pratyushsingha/blob/main/pratyush.gif">
-<h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Pratyush Singha</h1>
 <h3 align="center">A Passionate Programming Student</h3>
 <img align="right" alt="coding" width="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 <p align="left"> <img src="https://profile-counter.glitch.me/pratyushsingha/count.svg?" alt="pratyushsingha" /> </p>
