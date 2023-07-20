@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 <p align="left"> <img src="https://profile-counter.glitch.me/pratyushsingha/count.svg?" alt="pratyushsingha" /> </p>
 
-- 🔭 I’m currently working on [web-development](https://pratyushsingha.vercel.app)
+- 🔭 I’m currently working on [web-development](https://pratyushsingha.tech)
 
 - 🌱 I’m currently learning **React**
 
